@@ -6,7 +6,7 @@ Submitted by: **Pranav Nair**
 
 Time spent: **3** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/amethyst-wirehaired-sailor?path=script.js%3A10%3A38
 
 ## Required Functionality
 
@@ -51,6 +51,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+
 https://www.w3schools.com/js/js_arrays.asp
 
 https://www.w3schools.com/js/js_random.asp
@@ -63,7 +64,7 @@ A challenge I encountered was having the current number of mistakes made visible
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 
-While this project has taught me much about web development, I still have a few questions. First off, I noticed that this entire project was contained within one page. One thing that I am curious about is how to create different pages and have them accessible from a central page. For example, if I wanted to make different modes of the game, how would I enable the user to select a certain game mode so that they could play it? Another question I have is how programs can access user data. I feel like this relates to JavaScript more than HTML, but this is also something that I would want to explore because this project did not deal with user inputs other than clicking the buttons.
+While this project has taught me much about web development, I still have a few questions. First off, I noticed that this entire project was contained within one page. One thing that I am curious about is how to create different pages and have them accessible from a central page. For example, if I wanted to make different modes of the game, how would I enable the user to select a certain game mode so that they could play it? Another question I have is how programs can access user data. I feel like this relates to JavaScript more than HTML, but this is also something that I would want to explore because this project did not deal with user inputs other than clicking the buttons. Lastly, I am unsure about how advertisementss are implemented on certain websites. How do these advertisements show up in an HTML file? I will be sure to explore these questions.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
