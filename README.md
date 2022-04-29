@@ -70,13 +70,6 @@ While this project has taught me much about web development, I still have a few 
 
 If I had a few more hours to work on this project, I would likely spend them adding additional features so that the project is more original. As mentioned in my answer to the previous question, one thing that I would have worked on is creating different versions of the game. I would then allow the user to select which version they wanted to play, and by clicking the corresponding button, the user would be able to play that version. Additionally, I may also try to implement a user-input element to the project. I could build a custom game mode where the user can choose how many buttons exist, how many mistakes can be made, and so on. The game then creates itself using these conditions. Lastly, I may try to implement songs that are currently trending; each button may represent a few seconds of a song. I think this is more interesting than having plain sounds, so the user will likely be more engaged with the game.  
 
-
-
-## Interview Recording URL Link
-
-[My 5-minute Interview Recording] https://drive.google.com/file/d/1NJJxQkcYtNIf9ct8ArRlvPFkB5X4toxp/view?usp=sharing
-
-
 ## License
 
     Copyright Pranav Nair
